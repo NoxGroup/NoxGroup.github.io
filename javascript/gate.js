@@ -1,4 +1,4 @@
-var psword = document.getElementById("psword").value;
+var psword = document.getElementById("psword_nox").value;
 if (psword == "nox") {
     window.location.href = "noxgate.html";
     alert("ACCESS GRANTED");
